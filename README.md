@@ -19,6 +19,9 @@ console.log([...Solver.solve('SEND', 'MORE', 'MONEY')]);
 console.log([...VerbalAdditionSolver.solve('SEND', 'MORE', 'MONEY')]);
 ```
 
+## デモ
+https://2koh.github.io/verbal-addition-solver/
+
 ## アルゴリズムのメモ
 探索順は、深さ優先探索。
 
